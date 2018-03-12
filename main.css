@@ -109,6 +109,8 @@ em{
 }
 /*navigation*/
 .nav ul{
+  position: relative;
+  left: -20px
   font: bold 11px "Lato","Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   margin-bottom: 10px;
